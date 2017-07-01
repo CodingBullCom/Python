@@ -1,0 +1,4 @@
+This is sample text file for an example python
+script. The script will read this content modify
+it and display it. Please add code below.
+################################################
